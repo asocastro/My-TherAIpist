@@ -1,2 +1,2 @@
 # My-TherAIpist
-A chatbot trained using the Amod/mental_health_counseling_conversations dataset that mimics how a therapist responds with some funky (and super long) responses.
+A chatbot trained using gemma-2b and the Amod/mental_health_counseling_conversations dataset which mimics how a therapist responds with some funky (and super long) responses.
