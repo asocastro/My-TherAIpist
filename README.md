@@ -16,4 +16,4 @@ Transfer learning using HF, colab, gemma, and evaluating the tuned model using m
 # Things to try/look into
 Look for ways to automatically train, evaluate, and adjust the model while it is in the fine-tuning/training stage.
 
-Huge Shoutout to Xy for guiding the class and Amber, Carlo, and Danielle for facilitating!
+Huge shoutout to Xy for guiding the class and Amber, Carlo, and Danielle for facilitating!
