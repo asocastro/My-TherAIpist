@@ -7,7 +7,7 @@ Transfer learning using HF, colab, gemma, and evaluating the tuned model using m
 # General Workflow
  1. Import libraries
  2. Load Dataset (clean, shuffle, split)
- 3. Load model
+ 3. Load model (Quantize if needed)
  4. Configure finetune params
  5. Tune the model
  6. Upload to HF
